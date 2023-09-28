@@ -1,3 +1,5 @@
+A simple program showing how to fetch an api from json https://jsonplaceholder.typicode.com/users.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
